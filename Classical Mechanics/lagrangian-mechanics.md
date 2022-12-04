@@ -1,4 +1,5 @@
 # Lagrangian Mechanics
+###### see [[Classical Mechanics/overview|Classical Mechanics]]
 
 Lagrangian Mechanics is a very powerful formulation of classical mechanics, which makes use of a function called the Lagrangian, $L(x,t)$, along with the [[action#Principle of Stationary Action|Principle of Stationary Action]], which gives rise to the Euler-Lagrange equations.
 
