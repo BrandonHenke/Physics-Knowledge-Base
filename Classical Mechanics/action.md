@@ -9,4 +9,3 @@ $$
 where $L$ is the [[lagrangian-mechanics|Lagrangian]].
 
 ## Principle of Stationary Action
-
