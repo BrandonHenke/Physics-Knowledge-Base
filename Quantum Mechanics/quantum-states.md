@@ -1,2 +1,2 @@
 # Quantum States
-###### see [[QM-overview|Quantum Mechanics]]
+###### see [Quantum Mechanics](QM-overview.md)
