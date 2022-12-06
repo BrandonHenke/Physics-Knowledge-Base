@@ -1,2 +1,2 @@
 # Phase Space
-###### see [[hamiltonian-mechanics|Hamiltonian Mechanics]]
+###### see [Hamiltonian Mechanics](hamiltonian-mechanics.md)

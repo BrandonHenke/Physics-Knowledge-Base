@@ -1,5 +1,5 @@
 # Hamiltonian Formulation
-###### see [[Quantum Mechanics/overview|Quantum Mechanics]]
+###### see [[QM-overview|Quantum Mechanics]]
 
 The Hamiltonian formulation of Quantum Mechanics shares many commonalities with [[hamiltonian-mechanics|Hamiltonian Mechanics]].
 

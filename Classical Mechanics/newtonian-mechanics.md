@@ -1,3 +1,3 @@
 # Newtonian Mechanics
-###### see [[Classical Mechanics/overview|Classical Mechanics]]
+###### see [Classical Mechanics](CM-overview.md)
 

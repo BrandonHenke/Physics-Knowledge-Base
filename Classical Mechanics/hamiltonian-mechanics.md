@@ -1,4 +1,4 @@
 # Hamiltonian Mechanics
-###### see [[Classical Mechanics/overview|Classical Mechanics]]
+###### see [[CM-overview|Classical Mechanics]]
 
 ## [[phase-space|Phase Space]]

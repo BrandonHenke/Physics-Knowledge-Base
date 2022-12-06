@@ -1,2 +1,2 @@
 # Quantum Operators
-###### see [[Quantum Mechanics/overview|Quantum Mechanics]]
+###### see [[QM-overview|Quantum Mechanics]]
