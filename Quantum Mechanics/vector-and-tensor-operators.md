@@ -1,5 +1,5 @@
 # Vector and Tensor Operators
-###### see [[operators|Quantum Operators]]
+###### see [Quantum Operators](quantum-operators.md)
 
 ## Vector Operators
 Consider operators such as $\hat{\vec{x}}, \hat{\vec{p}}, \hat{\vec{L}}, \hat{\vec{S}},$ etc. which are vectors in 3-dim space.

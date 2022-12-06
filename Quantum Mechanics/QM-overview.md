@@ -4,5 +4,5 @@
 
 ### [Quantum States](quantum-states.md)
 
-### [Quantum Operators](operators.md)
+### [Quantum Operators](quantum-operators.md)
 
