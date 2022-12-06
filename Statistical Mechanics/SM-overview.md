@@ -1,1 +1,0 @@
-## Statisitcal Mechanics

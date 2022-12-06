@@ -1,5 +1,5 @@
 # Simple Harmonic Oscillator
-###### see [Quantum Mechanics](QM-overview.md)
+###### see [Quantum Mechanics](QM_overview.md)
 The simple harmonic oscillator potential is given by
 $$
 	V(\hat{x}) = \frac{1}{2} m\omega^2 \hat{x}^2.
