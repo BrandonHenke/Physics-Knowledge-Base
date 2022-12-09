@@ -13,4 +13,8 @@ $$
 in the $\hat{z}$ basis.
 
 **Continuous Example:**  
-The position of a particle is an infinite dimensional [Hilbert Space](../Math_Concepts/hilbert_space.md).
+The position of a particle is an infinite dimensional [Hilbert Space](../Math_Concepts/hilbert_space.md):
+$$
+\left|\psi\right\rangle = \int dx \left|x\right\rangle\left\langle x \mid \psi \right\rangle.
+$$
+The coefficients $\left\langle x \mid \psi \right\rangle$ are what are known as the [wave function](wave_function.md).
