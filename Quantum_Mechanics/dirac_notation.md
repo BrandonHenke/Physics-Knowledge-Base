@@ -1,7 +1,7 @@
 # Dirac Notation
 
-The state of a quantum system is an element of a vector space, $\mathcal{V}$, and is denoted with a what is called a "ket" vector, $\left|\psi\right\rangle$.
-A vector in the [dual space](../Math_Concepts/dual_space.md), $V^*$, is a called a "bra", $\left\langle\psi\right|$.
+The state of a quantum system is an element of a vector space, ${\mathcal{V}}$, and is denoted with a what is called a "ket" vector, $\left|\psi\right\rangle$.
+A vector in the [dual space](../Math_Concepts/dual_space.md), $\mathcal{V}^*$, is a called a "bra", $\left\langle\psi\right|$.
 The inner product of a "ket" with a "bra" is a "bracket", $\left\langle\phi \mid \psi\right\rangle$.
 
 **Discrete Example:**  
