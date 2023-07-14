@@ -1,1 +1,3 @@
-# Dual Space
+---
+title: Dual Space
+---

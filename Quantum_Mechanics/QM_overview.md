@@ -1,9 +1,9 @@
 # Quantum Mechanics
-###### see [Physics](../physics.md)
 
-## [Hamiltonian Formulation](hamiltonian_formulation.md)
 
-### [Quantum States](quantum_states.md)
+## [Hamiltonian Formulation](hamiltonian_formulation.html)[](hamiltonian_formulation.md)
 
-### [Quantum Operators](quantum_operators.md)
+### [Quantum States](quantum_states.html)[](quantum_states.md)
+
+### [Quantum Operators](quantum_operators.html)[](quantum_operators.md)
 

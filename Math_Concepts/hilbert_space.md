@@ -1,2 +1,4 @@
-# Hilbert Space
+---
+title: Hilbert Spaces
+---
 

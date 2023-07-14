@@ -1,20 +1,23 @@
-# Stern-Gerlach Experiment
+---
+title: Stern-Gerlach Experiment
+---
 
-![experiment-diagram](stern-gerlach-diagram.png)
+![](stern-gerlach-diagram.png)
 
 Given some angular momentum, $L$, and gyromagnetic ratio, $\gamma$, the magnetic moment is
-$$
-M = \gamma L
-$$
+\begin{equation}
+	M = \gamma L
+\end{equation}
 For a magnetic moment in a diverging magnetic field, the force felt by said magnetic moment is nonvanishing:
-$$
-f = -\nabla V = -\nabla (M\cdot B)
-$$
+\begin{equation}
+	f = -\nabla V = -\nabla (M\cdot B)
+\end{equation}
 With a beam of silver atoms, the magnetic moments of each atom can be pointed in any direction, so it is expected that the beam will become dispersed over a line parallel to the magnetic field, $IB$.
 However, what is observed is that the beam splits into two beams, one with magnetic moments parallel to $B$ and another with magnetic moments antiparallel to $B$.
 The measurements of the magnetic moments of the silver atoms seems to be "quantized" with two possible measurements.
 
 ## Sequential Measurements
+<div style="display:none">$\nextSection$</div>
 
 Consider a double Stern-Gerlach experment, where one set up is followed by another one, but the inhomogeneous magnetic field is oriented parallel to the first.
 The two beams leaving the first experiment have known magnetic moments.

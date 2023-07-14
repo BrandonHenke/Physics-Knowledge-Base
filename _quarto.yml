@@ -1,0 +1,25 @@
+project:
+  title: "Physics Knowledge Base"
+author:
+  - name: Brandon Henke
+    id: bh
+    email: henkebra@msu.edu
+    affiliation: 
+      - name: Michigan State University, Dept. Physics & Astronomy
+        city: East Lansing
+        state: MI
+        url: pa.msu.edu
+standalone: true
+toc: true
+toc-depth: 3
+number-sections: true
+format: 
+  html:
+    html-math-method: mathjax
+    include-in-header: 'mathjax-config.html'
+    include-before-body: 'math-macros.html'
+    toc-location: right
+    toc-title: Contents
+  pdf:
+    include-in-header: 'latex_preamble.sty'
+    number-depth: 3

@@ -1,8 +1,12 @@
-# Hamiltonian Formulation
-###### see [Quantum Mechanics](QM_overview.md)
+---
+title: Hamiltonian Formulation of Quantum Mechanics
+---
 
-The Hamiltonian formulation of Quantum Mechanics shares many commonalities with [Hamiltonian Mechanics](../Classical_Mechanics/hamiltonian_mechanics.md).
+## Hamiltonian Formulation
+<div style="display:none">$\nextSection$</div>
 
-Where Hamiltonian Mechanics has random variables, Quantum Mechanics has [Quantum Operators](quantum_operators.md).
+The Hamiltonian formulation of Quantum Mechanics shares many commonalities with [Hamiltonian mechanics](../Classical_Mechanics/hamiltonian_mechanics.html).[](../Classical_Mechanics/hamiltonian_mechanics.md)
 
-Where Hamiltonian Mechanics has probability distributions, Quantum Mechanics has [quantum states](quantum_states.md).
+Where Hamiltonian Mechanics has random variables, Quantum Mechanics has [quantum operators](quantum_operators.html).[](quantum_operators.md)
+
+Where Hamiltonian Mechanics has probability distributions, Quantum Mechanics has [quantum states](quantum_states.html).[](quantum_states.md)

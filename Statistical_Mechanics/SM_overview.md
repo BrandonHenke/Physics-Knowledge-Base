@@ -1,2 +1,3 @@
-# Statisitcal Mechanics
-###### see [Physics](../physics.md)
+---
+title: Statisitcal Mechanics
+---

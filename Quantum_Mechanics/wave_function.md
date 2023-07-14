@@ -1,2 +1,3 @@
-# Wave Function
-
+---
+title: Wave Function
+---
