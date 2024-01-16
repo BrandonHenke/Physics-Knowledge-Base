@@ -18,6 +18,7 @@ format:
     html-math-method: mathjax
     include-in-header: 'mathjax-config.html'
     include-before-body: 'math-macros.html'
+    css: style.css
     toc-location: right
     toc-title: Contents
   pdf:

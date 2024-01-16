@@ -2,7 +2,7 @@
 title: Stern-Gerlach Experiment
 ---
 
-![](stern-gerlach-diagram.png)
+![](figures/stern-gerlach-diagram.png)
 
 Given some angular momentum, $L$, and gyromagnetic ratio, $\gamma$, the magnetic moment is
 \begin{equation}
